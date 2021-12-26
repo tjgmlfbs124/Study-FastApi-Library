@@ -104,8 +104,11 @@ celerybeat.pid
 # Environments
 .env
 .venv
+app/venv
 env/
 crud-router/venv/
+crud-router/after_example/venv
+crud-router/before_example/venv
 ENV/
 env.bak/
 venv.bak/
